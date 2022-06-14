@@ -164,6 +164,7 @@
            #:inv
            #:lu
            #:lu-solve
+           #:csd-blocks
            #:csd
            #:svd
            #:ql
