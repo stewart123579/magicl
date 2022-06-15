@@ -151,8 +151,6 @@
            #:tril
            #:transpose
            #:transpose!
-           #:orthonormalize
-           #:orthonormalize!
            #:trace
            #:direct-sum
            #:conjugate-transpose
